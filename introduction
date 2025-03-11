@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main() {
+    
+int age =21;
+float gpa =3.77;
+char grade ='c';
+char name[] = "subro";
+
+printf("Hello %s\n",name);
+printf("you are %d\n years old",age);
+printf("your average grade is %c\n",grade);
+printf("your gpa is %f\n",gpa);
+    
+    
+
+    return 0;
+}
